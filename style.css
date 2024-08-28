@@ -1,0 +1,37 @@
+    body{
+        font-family: "Sora", system-ui;
+        background-color: #FAFAF9;
+    }
+
+
+    .text-container{
+        padding: 20px;
+        border-radius: 10px;
+        background-color: #FFFFFF;
+        width: 23%;
+        box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+        margin-left: 40%;
+        margin-top: 15%;
+    }
+
+    .img-container {
+        width: 336px;
+        border-radius: 10px;
+    }
+
+    .one {
+        background-color: #E6D6FC;
+        color: #883AE1;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 15px;
+        display: inline-block;
+        border: none;
+        margin-top: 20px;
+    }
+
+    p {
+        color: grey;
+    }
