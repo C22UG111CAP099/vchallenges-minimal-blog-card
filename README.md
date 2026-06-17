@@ -42,14 +42,6 @@ git clone https://github.com/C22UG111CAP099/vchallenges-minimal-blog-card.git
 
 3. Run the `index.html` file in your browser.
 
-## Project Screenshot
-
-Add a screenshot of the project here.
-
-```md
-![Screenshot](./assets/screenshot.png)
-```
-
 ## Author
 
 Tharun
