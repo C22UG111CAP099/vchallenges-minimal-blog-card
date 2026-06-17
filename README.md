@@ -1,4 +1,4 @@
-# Minimal Blog Card
+# My first small Minimal Blog Card
 
 This project is a simple blog card created using HTML and CSS. It displays a blog image, category, title, short description, and author information in a clean and modern card layout.
 
